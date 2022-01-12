@@ -2,7 +2,7 @@
 
 ## 注意
 
-本指标为作者自用指标，仅供参考，不对其他人构成投资建议。
+本工具仅作为交流编程技术使用，不对其他人构成投资建议。
 
 投资有风险，入市须谨慎！
 
@@ -11,6 +11,10 @@
 * [前端](https://github.com/jerryshell/fund-web)
 * [Spring Boot 后端](https://github.com/jerryshell/fund-server)
 * 阿里云 Serverless 后端（当前项目）
+
+## 阿里云 Java Serverless 文档
+
+https://help.aliyun.com/document_detail/158958.html
 
 ## 本地运行
 
@@ -24,6 +28,6 @@ fun build && fun local start
 fun build && fun deploy
 ```
 
-## 阿里云 Java Serverless 文档
+## 开源许可证
 
-https://help.aliyun.com/document_detail/158958.html
+[GNU Affero General Public License v3.0](https://choosealicense.com/licenses/agpl-3.0/)
